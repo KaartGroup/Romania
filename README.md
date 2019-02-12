@@ -3,19 +3,18 @@ This repository tracks the various mapping projects throughout Romania that are 
 
 ## Projects
 
-### [Road Name Project](https://github.com/KaartGroup/Romania/projects/1 "Project 1")
-Updating and adding missing road names to roads that have the data available via the Romaniaian Institute of Geography and Statistics (IBGE).
+### [Signpost Review Project](https://github.com/KaartGroup/Romania/projects/1 "Project 1")
+Motorway junctions play a key role in proper navigation and routing. The name of motorway junctions are commonly tagged as the name of the exit rather than the name of the destination. This project will focus on correcting signposts and adding other information from street level images.
 
 #### Editors Actively Working on this Project
 | Name      | OSM Username                                                        |
 |-----------|---------------------------------------------------------------------|
-| Ben       | [El Pescador](https://www.openstreetmap.org/user/El%20Pescador)     |
-| Jake      | [jacob_kubeczko](https://www.openstreetmap.org/user/jacob_kubeczko) |
-
+| Ionut        | [Rus Ionut ](https://www.openstreetmap.org/user/Rus%20Ionut)     |
+| Armin      | [Armin Gheorghina](https://www.openstreetmap.org/user/Armin%20Gheorghina) |
 
 
 #### Changeset Comment
-``` Adding street names in Romania retrieved from IBGE Map of Urban Areas. #Kaart 2018 ```
+```Modified signposts in Romania. #Kaart #maproulette```
 
 #### Contact
 For questions or comments regarding this project, please contact Kiana Ziola ([pizzagal](https://www.openstreetmap.org/user/pizzagal)) or create a [new issue](https://github.com/KaartGroup/Romania/issues/new?template=comment.md). 

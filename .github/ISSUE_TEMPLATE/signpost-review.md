@@ -19,7 +19,7 @@ Motorway junctions with the `name:*` tag throughout Romania have been added to M
 
 
 ### Changeset Comment
-Modified signposts in Romania. #Kaart #maproulette
+```Modified signposts in Romania. #Kaart #maproulette```
 
 #### Contact
 For questions or comments regarding this project, please contact Kiana ([pizzagal](https://www.openstreetmap.org/user/pizzagal) ) or leave a comment below.
