@@ -1,3 +1,13 @@
+---
+title: Romania
+tags: [formatting]
+keywords: romania
+last_updated: March 12, 2019
+summary: "Kaart's editing projects in Romania."
+sidebar: mydoc_sidebar
+permalink: romania
+---
+
 # Romania Mapping Projects
 This repository tracks the various mapping projects throughout Romania that are managed by [Kaart](https://github.com/KaartGroup/Romania/blob/master/KAART.md "Kaart").
 
