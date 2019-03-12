@@ -8,7 +8,7 @@ Motorway junctions play a key role in proper navigation and routing. The name of
 
 #### Editors Actively Working on this Project
 | Name      | OSM Username                                                        |
-|-----------|---------------------------------------------------------------------|
+|:-----------|:---------------------------------------------------------------------|
 | Ionut        | [Rus Ionut ](https://www.openstreetmap.org/user/Rus%20Ionut)     |
 | Armin      | [Armin Gheorghina](https://www.openstreetmap.org/user/Armin%20Gheorghina) |
 
